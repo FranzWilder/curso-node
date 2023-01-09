@@ -40,7 +40,7 @@ app.get('/generic', (req,res) =>{
 })
 
 
-.listen(8081)
+.listen(port)
 
 
 
